@@ -19,7 +19,7 @@ Tkinter (usually included with standard Python installations)
 Installation
 Clone the Repository:
 
-git clone https://github.com/yourusername/shinchan-password-checker.git
+git clone https://github.com/munnamunzz/Password-strength-checker.git
 cd shinchan-password-checker
 Install Dependencies: Tkinter is typically included with Python. If not, install it using:
 
